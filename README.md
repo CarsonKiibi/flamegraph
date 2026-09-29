@@ -1,5 +1,7 @@
 # flamegraph
 
+- generated example and readme :D
+
 ## Build
 
 ```
